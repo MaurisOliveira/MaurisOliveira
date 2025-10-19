@@ -65,9 +65,9 @@
 <!-- 🐾 GATINHOS ANDANDO (HTML MÁGICO) -->
 <div align="center">
 
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="90" style="position:relative; animation:walk 12s linear infinite;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTN4ZHhmOWhhYzBqM3N6cDZmZmhjemt2bHlnNjJmem9vZmJjZWdkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vi1KaNePn8B47AjfS5/giphy.gif" width="90" style="position:relative; animation:walk 12s linear infinite;">
 
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="90" style="position:relative; animation:walkReverse 15s linear infinite;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdjdWV1cDBnMmF1eHZ2dGV0a3JhZTFhaWF5b3U3ZGVieGljdml0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AJ85Ie15uFoYU5B0vN/giphy.gif" width="90" style="position:relative; animation:walkReverse 15s linear infinite;">
 
   <style>
     @keyframes walk {
