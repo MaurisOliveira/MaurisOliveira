@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/Zz0D2Hz.png" width="100%" />
+</p>
+
 <h1 align="center">
   💜🌸 Oi, eu sou o Mauricio! 🐱✨  
 </h1>
