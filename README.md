@@ -22,7 +22,7 @@
 
 ### 💜 Tecnologias que eu amo:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,arduino,linux,vscode,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,linux,vscode&theme=light" />
 </p>
 
 ---
@@ -48,10 +48,10 @@
 
 <-- 🐾 GATINHOS ANDANDO  -->
 <p align="center">
-  <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="200" /><br>
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100" />
+  <img src="https://e7.pngegg.com/pngimages/579/252/png-clipart-orange-and-white-kitten-kitten-cat-puppy-dog-litter-box-cute-kitten-animals-cat-like-mammal.png" width="200" /><br>
+  <img src="https://e7.pngegg.com/pngimages/188/474/png-clipart-cat-cat-baby-kitten-cute-a-stone-s-throw-to-play-leap-jump-pleasure-fun.png" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZYzsJIcvdGavW5a8tWQpeIxtCvEIcg4qqA&s" width="100" />
+  <img src="https://w7.pngwing.com/pngs/464/745/png-transparent-orange-tabby-kitten-cute-kitten-american-shorthair-cuteness-puppy-kitten-cat-like-mammal-animals-carnivoran-thumbnail.png" width="100" />
 </p>
 
 ---
