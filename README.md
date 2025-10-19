@@ -33,12 +33,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="200" />
-</p>
-
----
-
 ### 💌 Contato:
 📫 **mauriciodeoliveira06@gmail.com**  
 💬 Fala comigo sobre tech, café ou memes de gato 😸☕  
@@ -47,8 +41,8 @@
 
 <-- 🐾 GATINHOS  -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif" width="200" /><br>
-  <img src="https://media.tenor.com/2mVjdVTpEc4AAAAi/cat-resting.gif" />
+  <img src="https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif" width="100" /><br>
+  <img src="https://media.tenor.com/2mVjdVTpEc4AAAAi/cat-resting.gif" width="100"/>
   <img src="https://media.tenor.com/kIKCUtlep0cAAAAi/hulkenberg.gif" width="100" />
   <img src="https://media1.tenor.com/m/aw2Mkb0s-YwAAAAC/silly-reaction-meme.gif" width="100" />
 </p>
