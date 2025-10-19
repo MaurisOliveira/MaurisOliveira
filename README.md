@@ -1,5 +1,5 @@
 <h1 align="center">
-  💜🌸 Oi, eu sou o Mauris! 🐱✨  
+  💜🌸 Oi, eu sou o Mauricio! 🐱✨  
 </h1>
 
 <p align="center">
@@ -14,8 +14,7 @@
 
 ### 🪄 Sobre mim:
 - 🧠 Estudante de **Engenharia de Computação**
-- ☕ Carregado à base de café e bugs existenciais
-- 🐈‍⬛ Especialista em conversar com o compilador (ele não responde, mas ok)
+- ☕ Entra café e sai código
 - 🌙 Modo noturno ativado 24/7
 
 ---
@@ -46,12 +45,12 @@
 
 ---
 
-<-- 🐾 GATINHOS ANDANDO  -->
+<-- 🐾 GATINHOS  -->
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/579/252/png-clipart-orange-and-white-kitten-kitten-cat-puppy-dog-litter-box-cute-kitten-animals-cat-like-mammal.png" width="200" /><br>
-  <img src="https://e7.pngegg.com/pngimages/188/474/png-clipart-cat-cat-baby-kitten-cute-a-stone-s-throw-to-play-leap-jump-pleasure-fun.png" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZYzsJIcvdGavW5a8tWQpeIxtCvEIcg4qqA&s" width="100" />
-  <img src="https://w7.pngwing.com/pngs/464/745/png-transparent-orange-tabby-kitten-cute-kitten-american-shorthair-cuteness-puppy-kitten-cat-like-mammal-animals-carnivoran-thumbnail.png" width="100" />
+  <img src="https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif" width="200" /><br>
+  <img src="https://media.tenor.com/2mVjdVTpEc4AAAAi/cat-resting.gif" />
+  <img src="https://media.tenor.com/kIKCUtlep0cAAAAi/hulkenberg.gif" width="100" />
+  <img src="https://media1.tenor.com/m/aw2Mkb0s-YwAAAAC/silly-reaction-meme.gif" width="100" />
 </p>
 
 ---
